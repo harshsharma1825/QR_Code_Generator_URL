@@ -19,7 +19,4 @@ Feel free to modify any part of this description to better fit your project!<br>
 
 
 Preview:<br>
-<p align="center">
- ![project](https://github.com/user-attachments/assets/98096c2c-2fd1-44d9-a422-2c2aeb803efe)
-
-</p>
+![project](https://github.com/user-attachments/assets/d2d5c4c7-cfbf-486b-af07-33abd39b0597)
