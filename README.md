@@ -20,6 +20,6 @@ Feel free to modify any part of this description to better fit your project!<br>
 
 Preview:<br>
 <p align="center">
-  <img  src="![project](https://github.com/user-attachments/assets/98096c2c-2fd1-44d9-a422-2c2aeb803efe)
-">
+ ![project](https://github.com/user-attachments/assets/98096c2c-2fd1-44d9-a422-2c2aeb803efe)
+
 </p>
