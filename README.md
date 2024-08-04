@@ -2,19 +2,19 @@
 
 
 
-A simple command-line tool for generating QR codes from URLs using JavaScript. This project leverages the inquirer package for user prompts and the qr-image package for QR code generation.
+A simple command-line tool for generating QR codes from URLs using JavaScript. This project leverages the inquirer package for user prompts and the qr-image package for QR code generation.<br>
 
-Features
-Interactive CLI: Prompts the user for a URL using inquirer.
-QR Code Generation: Creates a QR code image for the provided URL using qr-image.
-Customizable Output: Saves the QR code image to a file or displays it in the terminal.
+Features<br>
+Interactive CLI: Prompts the user for a URL using inquirer.<br>
+QR Code Generation: Creates a QR code image for the provided URL using qr-image.<br>
+Customizable Output: Saves the QR code image to a file or displays it in the terminal.<br>
 
 
-Dependencies
-inquirer: For interactive command-line prompts.
-qr-image: For generating QR code images.
+Dependencies<br>
+inquirer: For interactive command-line prompts.<br>
+qr-image: For generating QR code images.<br>
 
-Feel free to modify any part of this description to better fit your project!
+Feel free to modify any part of this description to better fit your project!<br>
 
 
 
