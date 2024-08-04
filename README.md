@@ -20,6 +20,5 @@ Feel free to modify any part of this description to better fit your project!<br>
 
 Preview:<br>
 <p align="center">
-  <img width="460" height="300" src="![qr_img](https://github.com/user-attachments/assets/2d8b876f-d3a1-46e8-bd63-95229f5c1a7a)
-">
+  <img width="460" height="300" src="![project](https://github.com/user-attachments/assets/1cb7c5cd-3ecb-4f44-a973-8ede82adb88f)">
 </p>
